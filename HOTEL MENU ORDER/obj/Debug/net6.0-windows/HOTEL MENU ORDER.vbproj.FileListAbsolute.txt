@@ -1,0 +1,18 @@
+E:\VB CODES\HOTEL MENU ORDER\bin\Debug\net6.0-windows\HOTEL MENU ORDER.exe
+E:\VB CODES\HOTEL MENU ORDER\bin\Debug\net6.0-windows\HOTEL MENU ORDER.deps.json
+E:\VB CODES\HOTEL MENU ORDER\bin\Debug\net6.0-windows\HOTEL MENU ORDER.runtimeconfig.json
+E:\VB CODES\HOTEL MENU ORDER\bin\Debug\net6.0-windows\HOTEL MENU ORDER.dll
+E:\VB CODES\HOTEL MENU ORDER\bin\Debug\net6.0-windows\HOTEL MENU ORDER.pdb
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.vbproj.AssemblyReference.cache
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL_MENU_ORDER.Form1.resources
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.vbproj.GenerateResource.cache
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.AssemblyInfoInputs.cache
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.AssemblyInfo.vb
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.vbproj.CoreCompileInputs.cache
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.dll
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\refint\HOTEL MENU ORDER.dll
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.pdb
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL MENU ORDER.genruntimeconfig.cache
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\ref\HOTEL MENU ORDER.dll
+E:\VB CODES\HOTEL MENU ORDER\obj\Debug\net6.0-windows\HOTEL_MENU_ORDER.Resources.resources
